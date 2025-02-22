@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-cov",
+  "version": "1.0.0",
+  "description": "Custom ESLint rules for COV, including folder naming conventions",
+  "main": "lib/index.mjs",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "folder-naming"
+  ],
+  "author": "Fabian Hanggi",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
+
